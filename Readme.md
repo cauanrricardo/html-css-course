@@ -6,7 +6,6 @@ The goal is to build a solid foundation in modern HTML5 and CSS3, focusing on re
 
 ## 📁 Structure
 - `Starter` — Pratice of HTML5 + CSS
-- 
 ##  Objectives
 
 - Strengthen core front-end skills
