@@ -5,8 +5,9 @@ This repository contains my personal code and practice files from the **"Build R
 The goal is to build a solid foundation in modern HTML5 and CSS3, focusing on responsive design and clean, maintainable code.
 
 ## 📁 Structure
-
-## 🧠 Objectives
+- `Starter` — Pratice of HTML5 + CSS
+- 
+##  Objectives
 
 - Strengthen core front-end skills
 - Practice clean and semantic HTML
