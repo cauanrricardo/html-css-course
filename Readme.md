@@ -5,7 +5,14 @@ This repository contains my personal code and practice files from the **"Build R
 The goal is to build a solid foundation in modern HTML5 and CSS3, focusing on responsive design and clean, maintainable code.
 
 ## 📁 Structure
-- `Starter` — Pratice of HTML5 + CSS
+
+- `starter/` — course practice files and exercises  
+  - `02-HTML-fundamentals/` — core HTML concepts, elements, and structure  
+  - `03-CSS-fundamentals/` — selectors, box model, and essential styling principles  
+  - `04-CSS-layouts/` — layout techniques using Flexbox and Grid  
+  - `05-Design/` — design basics and reusable UI components  
+  - `06-Components/` — practical exercises and small challenges
+
 ##  Objectives
 
 - Strengthen core front-end skills
