@@ -12,6 +12,7 @@ The goal is to build a solid foundation in modern HTML5 and CSS3, focusing on re
   - `04-CSS-layouts/` — layout techniques using Flexbox and Grid  
   - `05-Design/` — design basics and reusable UI components  
   - `06-Components/` — practical exercises and small challenges
+  - `07-Challenges/` — Challenges 
 
 ##  Objectives
 
